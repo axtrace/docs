@@ -33,7 +33,7 @@ print $s;
 Язык программирования.<br>Например: `c`, `python`, `java` | Код на указанном языке программирования. Список поддерживаемых языков см. в разделе [{#T}](static-markup/highlight.md#formatters-name).
 `csv` | [Данные в формате CSV](static-markup/csv.md)
 `math`| [Математическая формула в текстовой разметке](static-markup/formulas.md)
-Тип диаграммы:<ul><li>`graphviz`</li><li>`blockdiag`</li><li>`seqdiag`</li></ul> | [Диаграмма в текстовой разметке](static-markup/diagram.md)
+Тип диаграммы:<ul><li>`graphviz`</li><li>`blockdiag`</li><li>`seqdiag`</li><li>`plantuml`</li></ul> | [Диаграмма в текстовой разметке](static-markup/diagram.md)
 `comment` | Комментарий — текст, который не будет отображаться на вики-странице
 
 ## Параметры блока {#params}
