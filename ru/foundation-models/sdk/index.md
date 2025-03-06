@@ -97,7 +97,7 @@ from yandex_cloud_ml_sdk import YCloudML
 
 sdk = YCloudML(
     folder_id="<идентификатор_каталога>",
-    auth="<аутентификационные_данные>",
+    auth="<аутентификационные_данные>"
 )
 
 model = sdk.models.completions("yandexgpt")
